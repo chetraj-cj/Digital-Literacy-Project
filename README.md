@@ -1,9 +1,9 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-**Name:** CJ  
-**Registration Number:** [Your Reg No.]  
-**Branch:** [Your Branch]  
+**Name:** Chetraj Tamatta  
+**Registration Number:** 25BAI10892 
+**Branch:** CSE(AI & ML)  
 **Year:** 1st Year B.Tech  
 
 ---
