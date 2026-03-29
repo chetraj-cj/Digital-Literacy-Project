@@ -55,9 +55,9 @@ Developed a case study on UPI fraud and a prevention checklist.
 ---
 
 ## 🔗 Useful Links
-- 📊 Google Form: [Paste Link]  
-- 💼 LinkedIn: [Paste Link]  
-- 💻 GitHub: [Paste Link]  
+- 📊 Google Form: (https://docs.google.com/forms/d/e/1FAIpQLSer0O8QyOBBDWGWkjHfiZkw6CIYASrsJ8TTR1m77W2KocI0Fw/viewform)  
+- 💼 LinkedIn: https://www.linkedin.com/in/chetraj-tamatta-11bb9b352/?skipRedirect=true 
+- 💻 GitHub: https://github.com/chetraj-cj  
 
 ---
 
